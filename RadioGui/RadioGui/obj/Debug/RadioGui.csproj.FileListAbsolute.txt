@@ -1,0 +1,9 @@
+E:\workspace\4143ContempLang\RadioGui\RadioGui\bin\Debug\RadioGui.exe.config
+E:\workspace\4143ContempLang\RadioGui\RadioGui\bin\Debug\RadioGui.exe
+E:\workspace\4143ContempLang\RadioGui\RadioGui\bin\Debug\RadioGui.pdb
+E:\workspace\4143ContempLang\RadioGui\RadioGui\obj\Debug\RadioGui.csprojResolveAssemblyReference.cache
+E:\workspace\4143ContempLang\RadioGui\RadioGui\obj\Debug\RadioGui.Properties.Resources.resources
+E:\workspace\4143ContempLang\RadioGui\RadioGui\obj\Debug\RadioGui.csproj.GenerateResource.Cache
+E:\workspace\4143ContempLang\RadioGui\RadioGui\obj\Debug\RadioGui.exe
+E:\workspace\4143ContempLang\RadioGui\RadioGui\obj\Debug\RadioGui.pdb
+E:\workspace\4143ContempLang\RadioGui\RadioGui\obj\Debug\RadioGui.RadioGui.resources
