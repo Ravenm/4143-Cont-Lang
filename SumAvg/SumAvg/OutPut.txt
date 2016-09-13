@@ -1,0 +1,29 @@
+The number entered is:123
+The sum of the number is: 6
+The avg of the number is: 2
+The max of the number is: 3
+The min of the number is: 1
+
+The number entered is:4432556
+The sum of the number is: 29
+The avg of the number is: 4
+The max of the number is: 6
+The min of the number is: 2
+
+The number entered is:42
+The sum of the number is: 6
+The avg of the number is: 3
+The max of the number is: 4
+The min of the number is: 2
+
+The number entered is:742436
+The sum of the number is: 26
+The avg of the number is: 4
+The max of the number is: 7
+The min of the number is: 2
+
+The number entered is:3487
+The sum of the number is: 22
+The avg of the number is: 5
+The max of the number is: 8
+The min of the number is: 3
